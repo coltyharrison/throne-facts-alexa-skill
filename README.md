@@ -1,4 +1,4 @@
-<img src="https://images-na.ssl-images-amazon.com/images/I/51LvQFaKPAL._SL210_QL95_.png" style="text-align:center;">
+<p align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/51LvQFaKPAL._SL210_QL95_.png"></p>
 
 An Alexa skill written in Python that allows a user to hear a fact about Game of Thrones / A Song of Ice and Fire, play trivia with Game of Thrones questions, or take the house quiz to learn what house you are in
 
