@@ -1,0 +1,8 @@
+hello: |
+    Valar Morghulis! Would you like to hear a fact, or play a round of trivia, or take the Game of Thrones house quiz?
+
+repeat_response: |
+    I'm sorry, I did not understand your response. If you would like to hear the question again, say, repeat.
+
+help: |
+    To hear a fact, say, tell me a fact. To play a round of trivia, say, start trivia. To play the game of thrones house quiz, say, start quiz.

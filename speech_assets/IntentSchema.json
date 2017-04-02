@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent": "GetNewFactIntent"
+    },
+    {
+      "intent": "TellMeMore"
+    },
+    {
+      "intent": "StartHouseQuiz"
+    },
+    {
+      "slots": [
+        {
+          "name": "Response",
+          "type": "LIST_OF_RESPONSES"
+        }
+      ],
+      "intent": "PlayGame"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "StartTrivia"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

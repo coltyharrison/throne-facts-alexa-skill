@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "app_function": "throne_facts.app", 
+        "s3_bucket": "zappa-jxpukzd7a"
+    }
+}
